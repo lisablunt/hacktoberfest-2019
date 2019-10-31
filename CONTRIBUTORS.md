@@ -1067,3 +1067,9 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+
+#### Name: [Lisa B.](https://github.com/lisablunt)
+- Place: Washington, DC
+- Bio: Front-End Software Engineer
+- GitHub: [lisablunt](https://github.com/lisablunt)
